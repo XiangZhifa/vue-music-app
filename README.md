@@ -1,2 +1,2 @@
-# vue-music-app
-vue音乐app
+# vue-music-mobile
+vue音乐移动端页面
