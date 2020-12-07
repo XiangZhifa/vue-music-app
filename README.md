@@ -1,2 +1,2 @@
 # vue-music-mobile
-vue音乐移动端页面
+Vue 仿QQ音乐 移动端页面
